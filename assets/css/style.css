@@ -15,7 +15,7 @@ body {
 
 .img {
     width: auto;
-    height: 100px;
+    height: 160px;
     border: 2px solid #5680E9;
     color: #5680E9;
     flex-grow: 1;
@@ -34,13 +34,13 @@ body {
 }
 
 .div3 {
-    width: 70px;
+    width: 140px;
     background-image: url("../img/img3.jpeg");
     background-size: cover;
 }
 
 .div4 {
-    width: 80px;
+    width: 100px;
     background-image: url("../img/img4.png");
     background-size: cover;
 }
@@ -58,13 +58,13 @@ body {
 }
 
 .div7 {
-    width: 80px;
+    width: 140px;
     background-image: url("../img/img7.jpg");
     background-size: cover;
 }
 
 .div8 {
-    width: 90px;
+    width: 160px;
     background-image: url("../img/img8.jpg");
     background-size: cover;
 }
@@ -94,8 +94,8 @@ body {
 }
 
 .div13 {
-    width: 50px;
-    background-image: url("../img/img16.jpg");
+    width: 250px;
+    background-image: url("../img/img13.jpg");
     background-size: cover;
 }
 
@@ -108,5 +108,11 @@ body {
 .div15 {
     width: 50px;
     background-image: url("../img/img15.png");
+    background-size: cover;
+}
+
+.div16 {
+    width: 50px;
+    background-image: url("../img/img16.jpg");
     background-size: cover;
 }
