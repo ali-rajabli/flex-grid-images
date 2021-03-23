@@ -1,0 +1,112 @@
+body {
+    height: 100vh;
+    background: linear-gradient(#5680E9, #84CEEB, #5AB9EA, #C1CBE4, #8860D0);
+    margin: 0px;
+}
+
+.container {
+    border: 1px solid #8860D0;
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    width: auto;
+    flex-wrap: wrap;
+}
+
+.img {
+    width: auto;
+    height: 100px;
+    border: 2px solid #5680E9;
+    color: #5680E9;
+    flex-grow: 1;
+}
+
+.div1 {
+    width: 170px;
+    background-image: url("../img/img1.jpg");
+    background-size: cover;
+}
+
+.div2 {
+    width: 90px;
+    background-image: url("../img/img2.png");
+    background-size: cover;
+}
+
+.div3 {
+    width: 70px;
+    background-image: url("../img/img3.jpeg");
+    background-size: cover;
+}
+
+.div4 {
+    width: 80px;
+    background-image: url("../img/img4.png");
+    background-size: cover;
+}
+
+.div5 {
+    width: 90px;
+    background-image: url("../img/img5.jpg");
+    background-size: cover;
+}
+
+.div6 {
+    width: 100px;
+    background-image: url("../img/img6.jpg");
+    background-size: cover;
+}
+
+.div7 {
+    width: 80px;
+    background-image: url("../img/img7.jpg");
+    background-size: cover;
+}
+
+.div8 {
+    width: 90px;
+    background-image: url("../img/img8.jpg");
+    background-size: cover;
+}
+
+.div9 {
+    width: 150px;
+    background-image: url("../img/img9.jpg");
+    background-size: cover;
+}
+
+.div10 {
+    width: 250px;
+    background-image: url("../img/img10.jpg");
+    background-size: cover;
+}
+
+.div11 {
+    width: 100px;
+    background-image: url("../img/img11.jpg");
+    background-size: cover;
+}
+
+.div12 {
+    width: 50px;
+    background-image: url("../img/img12.jpg");
+    background-size: cover;
+}
+
+.div13 {
+    width: 50px;
+    background-image: url("../img/img16.jpg");
+    background-size: cover;
+}
+
+.div14 {
+    width: 80px;
+    background-image: url("../img/img14.png");
+    background-size: cover;
+}
+
+.div15 {
+    width: 50px;
+    background-image: url("../img/img15.png");
+    background-size: cover;
+}
